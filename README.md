@@ -1,16 +1,20 @@
-# elon_musk_resume
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# App1: Elon Musk's Resume---FlutterCourse
+ App1: Elon Musk's Resume [FlutterCourse] [www.Flutter-Pro.com]
+ 
+ A simple resume using a variety of widgets.
+ 
+ # Tutorial Video
+ 
+https://www.youtube.com/watch?v=QVqc8EvPwKU
+ 
+ # Screenshot
+ <img src="./screenshot.png" height="400px"/>
+ 
+ 
+ 
+ # Links 
+- Planning The App          : https://flutter-pro.com/flutter/3/2
+- Learning New Widgets      : https://flutter-pro.com/flutter/3/2
+- Axis                      : https://flutter-pro.com/flutter/3/3
+- Coding the app            : https://flutter-pro.com/flutter/3/4
+ 
