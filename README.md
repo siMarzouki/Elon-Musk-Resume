@@ -1,5 +1,5 @@
 # App1: Elon Musk's Resume---FlutterCourse
- App1: Elon Musk's Resume [FlutterCourse] [www.Flutter-Pro.com]
+ App1: Elon Musk's Resume [FlutterCourse] [www.beflutter.pro]
  
  A simple resume using a variety of widgets.
  
@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=QVqc8EvPwKU
  
  
  # Links 
-- Planning The App          : https://flutter-pro.com/flutter/3/2
-- Learning New Widgets      : https://flutter-pro.com/flutter/3/2
-- Axis                      : https://flutter-pro.com/flutter/3/3
-- Coding the app            : https://flutter-pro.com/flutter/3/4
+- Planning The App          : https://beflutter.pro/flutter/3/2
+- Learning New Widgets      : https://beflutter.pro/flutter/3/2
+- Axis                      : https://beflutter.pro/flutter/3/3
+- Coding the app            : https://beflutter.pro/flutter/3/4
  
