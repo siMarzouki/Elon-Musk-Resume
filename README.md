@@ -11,7 +11,6 @@ https://www.youtube.com/watch?v=QVqc8EvPwKU
  <img src="./screenshot.png" height="400px"/>
  
  
- 
  # Links 
 - Planning The App          : https://beflutter.pro/flutter/3/2
 - Learning New Widgets      : https://beflutter.pro/flutter/3/2
